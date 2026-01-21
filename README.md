@@ -6,7 +6,7 @@
 
 确保游戏已安装 [BepInEx 6.0 (IL2CPP)](https://builds.bepinex.dev/projects/bepinex_be) 环境。
 
-下载 [TamaTextureModifier.dll](https://github.com/nuomi233/KotamaTextureOutfitModifier/releases/download/v1.0/KotamaTextureOutfitModifier.dll)。
+下载 [kotamaTextureModifier.dll](https://github.com/nuomi233/KotamaTextureOutfitModifier/releases/download/v1.0/KotamaTextureOutfitModifier.dll)。
 
 将其放入游戏根目录的 BepInEx\plugins 文件夹。
 
@@ -32,7 +32,7 @@ P：重置 边缘宽度至初始值
 
 ## 🗑️ 如何卸载
 
-删除 BepInEx\plugins\TamaTextureModifier.dll 即可
+删除 BepInEx\plugins\kotamaTextureModifier.dll 即可
 
 ## ⚖️ 免责声明 (Disclaimer)
 
